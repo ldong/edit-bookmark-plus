@@ -6,6 +6,9 @@ Edit Bookmark Plus is an extension for Firefox. To know more, see [extension's p
 
 This is a fork of `kashiif/edit-bookmark-plus`, I removed the open welcome page, and that's all.
 
+Since the License of original was unclear, by the time I forked it, Mon Feb 23 14:14:51 PST 2015, so I make it under MIT for the time being.
+
+
 ## Build xpi
 
 
