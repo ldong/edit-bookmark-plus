@@ -1,7 +1,7 @@
 {
-  "name": "edit-bookmark-plus",
-  "title": "Edit Bookmark Plus",
-  "description": "Allows to re-size the default 'Add/Edit Bookmark Popup' and fixes tree selection bug.",
+  "name": "edit-bookmark-minus",
+  "title": "Edit Bookmark Minus",
+  "description": "Allows to re-size the default 'Add/Edit Bookmark Popup' and fixes tree selection bug. Without opening the welcome page",
   "version": "2.3.0",
   "homepage": "http://www.kashiif.com/firefox-extensions/edit-bookmark-plus/",
   "author": {
