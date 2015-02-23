@@ -94,7 +94,7 @@ var editBookmarkPlus = {
 	_welcome: function(version) {
 		try {
 			var url = 'http://www.kashiif.com/firefox-extensions/edit-bookmark-plus/edit-bookmark-plus-welcome/?v='+version;
-			openUILinkIn( url, 'tab');
+			// openUILinkIn( url, 'tab');
 		} 
 		catch(e) {}
 	},
